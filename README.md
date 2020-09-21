@@ -42,6 +42,6 @@ In the **userAction() **function, we grab the input from the search form in line
 
 Now save these changes, and open the** index.html** file once more in your browser et voilà! You have just built your movie search engine Atlas Search indexes. 🙌 What kind of movie do you want to watch?!
 
-*For a detailed tutorial with screenshots and sample code, read the accompanying Tutorial.md or visit: https://www.mongodb.com/blog/post/lets-build-a-movie-search-engine-using-full-text-search-indexes-in-ten-minutes . This tutorial will guide you through how to build a web application to search for movies based on a topic using Atlas’ sample movie data collection. We will create an Search index on that sample data. Then we will query on this index to filter, rank and sort through those movies to quickly surface movies by topic.*
+*For a detailed tutorial with screenshots and sample code, visit: https://www.mongodb.com/blog/post/lets-build-a-movie-search-engine-using-full-text-search-indexes-in-ten-minutes . This tutorial will guide you through how to build a web application to search for movies based on a topic using Atlas’ sample movie data collection. We will create an Search index on that sample data. Then we will query on this index to filter, rank and sort through those movies to quickly surface movies by topic.*
 
 Built on Apache Lucene, Atlas Search adds document data to a search index to make that data searchable in a highly performant, scalable manner. 
